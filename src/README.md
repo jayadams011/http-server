@@ -8,11 +8,8 @@
 Working with http
 
 ## Getting Started
-Implement the following methods for the Queue class:
-
-enqueue(value) which inserts value into the Queue using a first-in, first-out approach.
-dequeue() which extracts a value from the Queue using a first-in, first-out approach.
-You have access to 2 Stack instances with push and pop methods.
+Set up your ENV, and install a package called cowsay. Cowsay, in Python, makes pies. One file, easily embedded into your app. It's directly executable and can be used on the CLI much like the original Cowsay. Or it can be used as a Python module that is imported into a Python program. It also has the option to copy itself so you can easily distribute it embedded into your own package.
+Use Insomnia as the GUI to visially test the output form the server and cowpy.
 
 
 
@@ -21,6 +18,9 @@ You have access to 2 Stack instances with push and pop methods.
 Python 3.6.4
 
 ## API
-TBD
+cowpy
+Insomnia
 
 ## Change log
+8d51a2b (HEAD -> cowpy, origin/cowpy) finished code
+02dcbcc (origin/master, origin/HEAD, master) Initial commit
